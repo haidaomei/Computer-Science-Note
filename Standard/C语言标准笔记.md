@@ -398,7 +398,7 @@ T* Q:Q限定T*类型
 
 7.移位表达式(Bitwise Shift Expressions)
 
-8.条件表达式(Relational Expressions)
+8.关系表达式(Relational Expressions)
 
 9.相等表达式(Equality Expressions)
 
